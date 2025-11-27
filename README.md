@@ -16,7 +16,7 @@ This project demonstrates a complete **Modern Data Engineering Pipeline on Azure
 
 Below is the high-level architecture of the pipeline:
 
-![Architecture Diagram]((https://drive.google.com/file/d/1fbZLVHHXvhsZ5KfwJbaIX24nHThcptz1/view?usp=drive_link))
+![Architecture Diagram](https://drive.google.com/uc?export=view&id=1fbZLVHHXvhsZ5KfwJbaIX24nHThcptz1)
 
 ---
 
