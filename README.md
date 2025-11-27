@@ -47,11 +47,11 @@ Pipeline includes **Lookup → ForEach → CopyActivity**.
 
 ### Example Pipeline Execution
 
-![ADF Pipeline]((https://drive.google.com/file/d/1W5pIRjon_g89KbsRk2CGm1Yk14FVM9rZ/view?usp=drive_link))
+![ADF Pipeline](https://drive.google.com/uc?export=view&id=1W5pIRjon_g89KbsRk2CGm1Yk14FVM9rZ)
 
 ### Preview of input JSON file in Lookup
 
-![Lookup]((https://drive.google.com/file/d/1J-qc0KpcMK6WS6Huo_FaU1FhCiwW66JH/view?usp=drive_link))
+![Lookup](https://drive.google.com/uc?export=view&id=1J-qc0KpcMK6WS6Huo_FaU1FhCiwW66JH)
 
 ---
 
@@ -109,8 +109,8 @@ WITH (
 AS SELECT * FROM gold.final2;
 ```
 
-![Synapse Query](https://drive.google.com/file/d/1ppnahrHBrR74jqGx1Vh9nstSbBaSXdcm/view?usp=drive_link)
-![Synapse Query](https://drive.google.com/file/d/1ppnahrHBrR74jqGx1Vh9nstSbBaSXdcm/view?usp=drive_link)
+![Synapse Query](https://drive.google.com/uc?export=view&id=1ppnahrHBrR74jqGx1Vh9nstSbBaSXdcm)
+![Synapse Query](https://drive.google.com/uc?export=view&id=1ppnahrHBrR74jqGx1Vh9nstSbBaSXdcm)
 
 ---
 
