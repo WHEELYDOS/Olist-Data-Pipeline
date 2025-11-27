@@ -71,7 +71,7 @@ def clean_data(df, name):
     return df.dropDuplicates().na.drop('all')
 ```
 
-![Cleaning Code](https://drive.google.com/file/d/10sBoYNXHpYLQ2WIxykPAMOhV-XKH9ieY/view?usp=drive_link)
+![Cleaning Code](https://drive.google.com/uc?export=view&id=10sBoYNXHpYLQ2WIxykPAMOhV-XKH9ieY)
 
 ### Timestamp Conversion Example
 
