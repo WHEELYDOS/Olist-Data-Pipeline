@@ -75,7 +75,7 @@ def clean_data(df, name):
 
 ### Timestamp Conversion Example
 
-![Timestamp](https://drive.google.com/file/d/1yZ-BU77PrCAMtxPVZ2CPF0bxfi7NEtG3/view?usp=drive_link)
+![Timestamp](https://drive.google.com/uc?export=view&id=1yZ-BU77PrCAMtxPVZ2CPF0bxfi7NEtG3)
 
 ---
 
@@ -83,7 +83,7 @@ def clean_data(df, name):
 
 Example visualization of delivery delay grouped by payment type:
 
-![Visualization](https://drive.google.com/file/d/1bpHvsyrWSq7Evl4n6oeAFajQsIpDSKZO/view?usp=drive_link)
+![Visualization](https://drive.google.com/uc?export=view&id=1bpHvsyrWSq7Evl4n6oeAFajQsIpDSKZO)
 
 ---
 
@@ -91,7 +91,7 @@ Example visualization of delivery delay grouped by payment type:
 
 Reading reference table using PyMongo and joining with transformed layer.
 
-![Mongo](https://drive.google.com/file/d/14kG_ShF1pWyI0YQGquoW22CRIYjbOQEb/view?usp=drive_link)
+![Mongo](https://drive.google.com/uc?export=view&id=14kG_ShF1pWyI0YQGquoW22CRIYjbOQEb)
 
 ---
 
