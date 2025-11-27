@@ -16,7 +16,7 @@ This project demonstrates a complete **Modern Data Engineering Pipeline on Azure
 
 Below is the high-level architecture of the pipeline:
 
-![Architecture Diagram](assets/arch.png)
+![Architecture Diagram]((https://drive.google.com/file/d/1fbZLVHHXvhsZ5KfwJbaIX24nHThcptz1/view?usp=drive_link))
 
 ---
 
@@ -47,11 +47,11 @@ Pipeline includes **Lookup → ForEach → CopyActivity**.
 
 ### Example Pipeline Execution
 
-![ADF Pipeline](assets/adf_pipeline.png)
+![ADF Pipeline]((https://drive.google.com/file/d/1W5pIRjon_g89KbsRk2CGm1Yk14FVM9rZ/view?usp=drive_link))
 
 ### Preview of input JSON file in Lookup
 
-![Lookup](assets/lookup_json.png)
+![Lookup]((https://drive.google.com/file/d/1J-qc0KpcMK6WS6Huo_FaU1FhCiwW66JH/view?usp=drive_link))
 
 ---
 
@@ -71,11 +71,11 @@ def clean_data(df, name):
     return df.dropDuplicates().na.drop('all')
 ```
 
-![Cleaning Code](assets/cleaning_code.png)
+![Cleaning Code](https://drive.google.com/file/d/10sBoYNXHpYLQ2WIxykPAMOhV-XKH9ieY/view?usp=drive_link)
 
 ### Timestamp Conversion Example
 
-![Timestamp](assets/timestamp_cleaning.png)
+![Timestamp](https://drive.google.com/file/d/1yZ-BU77PrCAMtxPVZ2CPF0bxfi7NEtG3/view?usp=drive_link)
 
 ---
 
@@ -83,7 +83,7 @@ def clean_data(df, name):
 
 Example visualization of delivery delay grouped by payment type:
 
-![Visualization](assets/delay_viz.png)
+![Visualization](https://drive.google.com/file/d/1bpHvsyrWSq7Evl4n6oeAFajQsIpDSKZO/view?usp=drive_link)
 
 ---
 
@@ -91,7 +91,7 @@ Example visualization of delivery delay grouped by payment type:
 
 Reading reference table using PyMongo and joining with transformed layer.
 
-![Mongo](assets/mongo_read.png)
+![Mongo](https://drive.google.com/file/d/14kG_ShF1pWyI0YQGquoW22CRIYjbOQEb/view?usp=drive_link)
 
 ---
 
@@ -109,7 +109,8 @@ WITH (
 AS SELECT * FROM gold.final2;
 ```
 
-![Synapse Query](assets/synapse_query.png)
+![Synapse Query](https://drive.google.com/file/d/1ppnahrHBrR74jqGx1Vh9nstSbBaSXdcm/view?usp=drive_link)
+![Synapse Query](https://drive.google.com/file/d/1ppnahrHBrR74jqGx1Vh9nstSbBaSXdcm/view?usp=drive_link)
 
 ---
 
@@ -117,7 +118,6 @@ AS SELECT * FROM gold.final2;
 
 Business-ready output available for BI tools.
 
-![PowerBI](assets/powerbi.png)
 
 ---
 
