@@ -110,7 +110,6 @@ AS SELECT * FROM gold.final2;
 ```
 
 ![Synapse Query](https://drive.google.com/uc?export=view&id=1ppnahrHBrR74jqGx1Vh9nstSbBaSXdcm)
-![Synapse Query](https://drive.google.com/uc?export=view&id=1ppnahrHBrR74jqGx1Vh9nstSbBaSXdcm)
 
 ---
 
